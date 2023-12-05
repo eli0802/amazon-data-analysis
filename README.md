@@ -47,6 +47,8 @@ The Electronics dataset was collected from the Kaggle website. It contains a lot
 ![prime_light](https://github.com/eli0802/amazon-data-analysis/assets/88452822/17049a46-7022-4586-880b-4565e7d02cf5)
 
 4. 75% of the heavy products are sold on Amazon using the FBA delivery type
+   ![heavy](https://github.com/eli0802/amazon-data-analysis/assets/88452822/7ce56aa9-6c90-4ded-a23a-882ca0efcee7)
+
 5. Top 20 Brands based on their Average Rating:
    ![brands_rating](https://github.com/eli0802/amazon-data-analysis/assets/88452822/5646fbbf-feeb-4515-9e24-3e7d08e93bfd)
 
